@@ -101,6 +101,12 @@ cd Code_js
 python3 -m http.server 8000
 ```
 
+OU 
+
+```bash
+make web
+```
+
 Puis ouvrir dans le navigateur :
 
 ```
